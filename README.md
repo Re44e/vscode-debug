@@ -1,4 +1,4 @@
-**Debug Configuration in the VScode**
+**Debug configuration in the VScode**
 
 Example of debug configuration in the vscode using nodemon and sucrase.
 
